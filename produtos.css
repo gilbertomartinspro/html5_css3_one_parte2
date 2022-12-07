@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 header {
     background-color: #DDDDDD;
     padding: 20px 0;
@@ -44,7 +50,6 @@ nav a:hover {
     text-align: center;
     width: 30%;
     vertical-align: top;
-    box-sizing: border-box;
     margin: 0 1%;
     padding: 30px 20px;
     border: 2px solid #000;
